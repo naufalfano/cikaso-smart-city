@@ -1,0 +1,191 @@
+[
+    {
+        "id": "0b84deaa-40d1-11ee-8b2b-0250e351439c",
+        "title": "Status Perkawinan",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 16:48:28",
+        "updated_at": "2023-08-22 16:48:28"
+    },
+    {
+        "id": "0fb75531-4158-11ee-836b-0250e351439c",
+        "title": "Nama Warga Yang Disekolahkan pada SKTM untuk Sekolah",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 08:54:57",
+        "updated_at": "2023-08-23 08:54:57"
+    },
+    {
+        "id": "1128d21d-4178-11ee-836b-0250e351439c",
+        "title": "Fotokopi Surat Hilang",
+        "description": "",
+        "field_type_id": "2",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 12:44:03",
+        "updated_at": "2023-08-23 12:44:03"
+    },
+    {
+        "id": "19593d9b-40d1-11ee-8b2b-0250e351439c",
+        "title": "Pekerjaan",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 16:48:51",
+        "updated_at": "2023-08-22 16:48:51"
+    },
+    {
+        "id": "2d2ccbed-40d1-11ee-8b2b-0250e351439c",
+        "title": "Alamat",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 16:49:24",
+        "updated_at": "2023-08-22 16:49:24"
+    },
+    {
+        "id": "6987fa07-4155-11ee-836b-0250e351439c",
+        "title": "Peruntukkan Surat Keterangan Usaha",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 08:35:59",
+        "updated_at": "2023-08-23 08:35:59"
+    },
+    {
+        "id": "74f78e22-4158-11ee-836b-0250e351439c",
+        "title": "Nama Sekolah pada SKTM untuk Sekolah",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 08:57:47",
+        "updated_at": "2023-08-23 08:57:47"
+    },
+    {
+        "id": "8ca50186-40d0-11ee-8b2b-0250e351439c",
+        "title": "Nama",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 16:44:55",
+        "updated_at": "2023-08-22 16:44:55"
+    },
+    {
+        "id": "933cd18b-40ec-11ee-8b2b-0250e351439c",
+        "title": "Barang yang hilang",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 20:05:32",
+        "updated_at": "2023-08-22 20:05:32"
+    },
+    {
+        "id": "933cd92b-40ec-11ee-8b2b-0250e351439c",
+        "title": "Alasan barang hilang",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 20:05:32",
+        "updated_at": "2023-08-22 20:05:32"
+    },
+    {
+        "id": "99206044-4158-11ee-836b-0250e351439c",
+        "title": "Kelas yang Diduduki pada SKTM untuk Sekolah",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 08:58:47",
+        "updated_at": "2023-08-23 08:58:47"
+    },
+    {
+        "id": "9d2eec72-40d0-11ee-8b2b-0250e351439c",
+        "title": "Tempat Tanggal Lahir",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 16:45:22",
+        "updated_at": "2023-08-22 16:45:22"
+    },
+    {
+        "id": "a31c3a0d-4177-11ee-836b-0250e351439c",
+        "title": "KTP",
+        "description": "",
+        "field_type_id": "2",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 12:40:58",
+        "updated_at": "2023-08-23 12:40:58"
+    },
+    {
+        "id": "a31c452a-4177-11ee-836b-0250e351439c",
+        "title": "KK",
+        "description": "",
+        "field_type_id": "2",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 12:40:58",
+        "updated_at": "2023-08-23 12:40:58"
+    },
+    {
+        "id": "a39ceee8-40ec-11ee-8b2b-0250e351439c",
+        "title": "Tempat kehilangan barang",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 20:05:59",
+        "updated_at": "2023-08-22 20:05:59"
+    },
+    {
+        "id": "ccba969d-40d0-11ee-8b2b-0250e351439c",
+        "title": "Kewarganegaraan",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 16:46:42",
+        "updated_at": "2023-08-22 16:46:42"
+    },
+    {
+        "id": "d0161a96-4157-11ee-836b-0250e351439c",
+        "title": "Status Keluarga Untuk SKTM Sekolah",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 08:53:10",
+        "updated_at": "2023-08-23 08:53:10"
+    },
+    {
+        "id": "d4d198a3-40d0-11ee-8b2b-0250e351439c",
+        "title": "Agama",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-22 16:46:56",
+        "updated_at": "2023-08-22 16:46:56"
+    },
+    {
+        "id": "dc70296e-415f-11ee-836b-0250e351439c",
+        "title": "Kondisi Warga untuk SKTM Berobat",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 09:50:47",
+        "updated_at": "2023-08-23 09:50:47"
+    },
+    {
+        "id": "ed3db2e3-415f-11ee-836b-0250e351439c",
+        "title": "Nama Rumah Sakit untuk SKTM Berobat",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 09:51:15",
+        "updated_at": "2023-08-23 09:51:15"
+    },
+    {
+        "id": "f00b2944-4151-11ee-836b-0250e351439c",
+        "title": "Peruntukkan Surat Keterangan Kelakuan Baik",
+        "description": "",
+        "field_type_id": "1",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c",
+        "created_at": "2023-08-23 08:11:07",
+        "updated_at": "2023-08-23 08:11:07"
+    }
+]

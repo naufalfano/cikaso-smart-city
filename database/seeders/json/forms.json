@@ -1,0 +1,32 @@
+[
+    {
+        "id": "00b65d93-4152-11ee-836b-0250e351439c",
+        "title": "Surat Keterangan Kelakuan Baik",
+        "image": "",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c"
+    },
+    {
+        "id": "01b42443-4160-11ee-836b-0250e351439c",
+        "title": "Surat Keterangan Tidak Mampu Untuk Berobat",
+        "image": "",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c"
+    },
+    {
+        "id": "39d4f713-40d0-11ee-8b2b-0250e351439c",
+        "title": "Surat Kehilangan",
+        "image": "",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c"
+    },
+    {
+        "id": "45c52ed3-4155-11ee-836b-0250e351439c",
+        "title": "Surat Keterangan Usaha",
+        "image": "",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c"
+    },
+    {
+        "id": "a787c3ee-4158-11ee-836b-0250e351439c",
+        "title": "Surat Keterangan Tidak Mampu Untuk Sekolah",
+        "image": "",
+        "admin_id": "e9d4e038-40cf-11ee-8b2b-0250e351439c"
+    }
+]

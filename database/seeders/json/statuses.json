@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "status": "admin.verify",
+        "description": "Berkas sedang diverifikasi"
+    },
+    {
+        "id": "2",
+        "status": "admin.sign",
+        "description": "Berkas sedang ditandatangani"
+    },
+    {
+        "id": "3",
+        "status": "admin.rejected",
+        "description": "Pengajuan berkas ditolak"
+    },
+    {
+        "id": "4",
+        "status": "admin.done",
+        "description": "Berkas sudah bisa diambil"
+    },
+    {
+        "id": "100",
+        "status": "field.approved",
+        "description": "Isian sudah benar"
+    },
+    {
+        "id": "101",
+        "status": "field.revise",
+        "description": "Perbaiki isian anda"
+    },
+    {
+        "id": "102",
+        "status": "field.verify",
+        "description": "Isian sedang diverifikasi"
+    }
+]
